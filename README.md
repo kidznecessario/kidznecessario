@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renan or @therenanlira
+- 👋 Hi, I’m Renan and you can find me as @therenanlira
 - 👀 I’m interested in SRE and DevOps
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to the DevOps Community
