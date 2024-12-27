@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Renan and you can reach me at [LinkedIn](https://www.linkedin.com/in/therenanlira)
-- 💻 I work with Infrastructure Engineering and DevOps
-- ✨ I am always on the hunt for new knowledge, and now I am diving into the world of Node.
+- 👋 Hey there! I’m Renan, and you can find me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/therenanlira).
+- 💻 I’m a Infrastructure engineer who works with DevOps and SRE.
+- ✨ I’m a big fan of AWS, Azure, Terraform, TypeScript and Python. I’m always on the lookout for new technologies to learn about.
